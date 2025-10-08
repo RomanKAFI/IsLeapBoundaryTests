@@ -1,0 +1,15 @@
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/bin/Debug/net8.0/IsLeapBoundaryTests
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/bin/Debug/net8.0/IsLeapBoundaryTests.deps.json
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/bin/Debug/net8.0/IsLeapBoundaryTests.runtimeconfig.json
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/bin/Debug/net8.0/IsLeapBoundaryTests.dll
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/bin/Debug/net8.0/IsLeapBoundaryTests.pdb
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.AssemblyInfoInputs.cache
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.AssemblyInfo.cs
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.csproj.CoreCompileInputs.cache
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.sourcelink.json
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.dll
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/refint/IsLeapBoundaryTests.dll
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.pdb
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/IsLeapBoundaryTests.genruntimeconfig.cache
+/Users/kafi/Desktop/CSD268_QA/week_1/IsLeapBoundaryTests/obj/Debug/net8.0/ref/IsLeapBoundaryTests.dll
